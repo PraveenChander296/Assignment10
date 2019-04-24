@@ -1,0 +1,19 @@
+c:\users\dell\documents\visual studio 2015\Projects\Assignment10-1\Assignment10-1\bin\Debug\Assignment10-1.exe.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment10-1\Assignment10-1\obj\Debug\Assignment10-1.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment10-1\Assignment10-1\obj\Debug\Assignment10_1.Form1.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment10-1\Assignment10-1\obj\Debug\Assignment10_1.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment10-1\Assignment10-1\obj\Debug\Assignment10-1.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment10-1\Assignment10-1\bin\Debug\Assignment10-1.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment10-1\Assignment10-1\bin\Debug\Assignment10-1.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment10-1\Assignment10-1\obj\Debug\Assignment10-1.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Assignment10-1\Assignment10-1\obj\Debug\Assignment10-1.pdb
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\bin\Debug\Assignment10-1.exe.config
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\bin\Debug\Assignment10-1.exe
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\bin\Debug\Assignment10-1.pdb
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\obj\Debug\Assignment10-1.csprojResolveAssemblyReference.cache
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\obj\Debug\Assignment10_1.Form1.resources
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\obj\Debug\Assignment10_1.Properties.Resources.resources
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\obj\Debug\Assignment10-1.csproj.GenerateResource.Cache
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\obj\Debug\Assignment10-1.csproj.CoreCompileInputs.cache
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\obj\Debug\Assignment10-1.exe
+C:\Users\Praveen\Desktop\Assignment10-1\Assignment10-1\Assignment10-1\obj\Debug\Assignment10-1.pdb
